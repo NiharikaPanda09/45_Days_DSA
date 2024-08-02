@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f885724c-ce4c-4c6f-a7ab-09700dba0406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dsa_45_Days.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BestTimeToSellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetMatrixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindTheDuplicateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubarrayEqualK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumPointsFromCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubarraySumDivByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Three_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -42,10 +46,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BestTimeToSellStockII.executor": "Debug",
+    "Application.FindTheDuplicateArray.executor": "Debug",
+    "Application.LongestSubarrayEqualK.executor": "Run",
+    "Application.MaximumPointsFromCards.executor": "Run",
     "Application.SetMatrixZero.executor": "Run",
+    "Application.SubarraySumEqualsK.executor": "Run",
+    "Application.SubarraySumequalK.executor": "Run",
+    "Application.Three_sum.executor": "Run",
+    "Application.WordSearch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,16 +68,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BestTimeToSellStockII">
-    <configuration name="BestTimeToSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimeToSellStockII" />
+  <component name="RunManager" selected="Application.JumpGame">
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumpGame" />
       <module name="Dsa_45_Days" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetMatrixZero" />
+    <configuration name="LongestSubarrayEqualK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubarrayEqualK" />
+      <module name="Dsa_45_Days" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumPointsFromCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumPointsFromCards" />
+      <module name="Dsa_45_Days" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubarraySumEqualsK" />
+      <module name="Dsa_45_Days" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearch" />
       <module name="Dsa_45_Days" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestTimeToSellStockII" />
-        <item itemvalue="Application.SetMatrixZero" />
+        <item itemvalue="Application.JumpGame" />
+        <item itemvalue="Application.SubarraySumEqualsK" />
+        <item itemvalue="Application.LongestSubarrayEqualK" />
+        <item itemvalue="Application.WordSearch" />
+        <item itemvalue="Application.MaximumPointsFromCards" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +130,13 @@
       <option name="presentableId" value="Default" />
       <updated>1722173498296</updated>
       <workItem from="1722173499373" duration="1343000" />
-      <workItem from="1722237026208" duration="954000" />
+      <workItem from="1722237026208" duration="1545000" />
+      <workItem from="1722324175726" duration="3495000" />
+      <workItem from="1722411349939" duration="3232000" />
+      <workItem from="1722431820744" duration="2833000" />
+      <workItem from="1722497892795" duration="2046000" />
+      <workItem from="1722522593029" duration="1540000" />
+      <workItem from="1722583681698" duration="1300000" />
     </task>
     <servers />
   </component>
@@ -108,15 +150,6 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BestTimeToSellStockII.java</url>
-          <line>6</line>
-          <properties class="BestTimeToSellStockII" method="maxProfit">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
